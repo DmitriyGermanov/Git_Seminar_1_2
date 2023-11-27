@@ -4,4 +4,4 @@
 
 ### Hello local repository
 
-repository 2
+Some changes to create a conflict
